@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there. My name is Nikita
+## I am a student at the College of Communications and Informatics  👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aser161&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
  </p> 
